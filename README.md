@@ -81,5 +81,5 @@ python agent.py
 
 ---
 
-## 🏆 Acknowledgements
-This project was built as part of the **Agentic AI** track for the **Learners' Space 2026** bootcamp[cite: 1]. Special thanks to the **Analytics Club** team for the mentorship, theory frameworks, and guidance throughout the cohort[cite: 1].
+## Acknowledgements
+This project was built as part of the **Agentic AI** track for the **Learners' Space 2026** bootcamp. Special thanks to the **Analytics Club, IIT Bombay** for the theory frameworks and guidance throughout the bootcamp.
